@@ -20,15 +20,15 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Ameer Suhail✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Ameer Suhail 𝐛𝐨𝐭.
-            *Pikachu*
+𝗭𝗘𝗘𝗥𝗔 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧
 
-■□■□■□■□■□■□■□■□■□■□
-♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+⚡⚡𝗔𝗹𝗹 𝗠𝗘𝗗𝗜𝗔 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
 🍙𝙐𝙨𝙚➜ Downloads song for you.
-⚠️.song  baby love
+⚠️.song  kawadawath salenna epa
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -video <yt link>
 🍙𝙐𝙨𝙚➜ Downloads video from YouTube link.
@@ -78,8 +78,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□Pikachu■□■□■□■□■□
-♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+⚡⚡ආතල් 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦🥵⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
 🍙𝙐𝙨𝙚➜ It sends a random joke.
@@ -121,8 +122,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🍙𝙐𝙨𝙚➜  Gives you info about anime.
 ⚠️anime pikachu
-■□■□■□■□■Pikachu□■□■□■□■□■□
-♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
+
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+⚡⚡𝗦𝗧𝗜𝗖𝗞𝗘𝗥 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
 🍙𝙐𝙨𝙚➜ Converts img/gif into a sticker.
@@ -132,10 +135,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp pikachu
-■□■□■□■□■□■□■□■□■□■□
-═════💢Pikachu💢═════
-▣▣▣▣▣▣▣▣▣ameersuhail▣▣▣▣▣▣▣▣▣▣▣
+⚠️ex  attp zeera
+
+𝗭𝗘𝗘𝗥𝗔 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
 
 `}) 
 
