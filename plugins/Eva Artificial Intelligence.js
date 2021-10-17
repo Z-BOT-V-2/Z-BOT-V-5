@@ -233,17 +233,17 @@ var succ_on = ''
 var succ_off = ''
 if (conf.LANG == 'TR') {
     fulleva_dsc = 'Tam fonksiyonel Pikachu özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
-    already_on = 'Pikachu yapay zekası halihazırda tüm fonksiyonları etkin.'
-    already_off = 'Pikachu yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
-    succ_on = 'Pikachu, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
-    succ_off = 'Pikachu, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
+    already_on = 'Zeera yapay zekası halihazırda tüm fonksiyonları etkin.'
+    already_off = 'Zeera yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
+    succ_on = 'Zeera, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
+    succ_off = 'Zeera, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Activates full functional Pikachu features. Turn your account into a ai chatbot!'
-    already_on = 'Pikachu artificial intelligence is already fully functional.'
-    already_off = 'Pikachu artificial intelligence is currently running semi-functional.'
-    succ_on = 'Pikachu Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'Pikachu Set to Semi-Functional! Please wait a bit! ☑️'
+    already_on = 'Zeera artificial intelligence is already fully functional.'
+    already_off = 'Zeera artificial intelligence is currently running semi-functional.'
+    succ_on = 'Zeera Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'Zeera Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'ML') {
     fulleva_dsc = 'പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായ സവിശേഷതകൾ സജീവമാക്കുന്നു. നിങ്ങളുടെ അക്കൗണ്ട് ഒരു ചാറ്റ്ബോട്ടാക്കി മാറ്റുക!'
